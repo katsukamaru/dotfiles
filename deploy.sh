@@ -1,4 +1,4 @@
-DOT_DIRECTORY=${HOME}/git/dotfiles
+DOT_DIRECTORY=`pwd`
 
 for f in .??*
 do

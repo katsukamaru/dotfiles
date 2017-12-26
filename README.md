@@ -1,5 +1,5 @@
 # dotfiles
 
 # Deploy
-$ cd dotfiles
+$ cd dotfiles  
 $ ./deploy.sh

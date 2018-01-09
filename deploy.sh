@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 DOT_DIRECTORY=`pwd`
 
 for f in .??*
